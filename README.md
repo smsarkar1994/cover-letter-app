@@ -2,7 +2,9 @@
 App to dynamically update cover letters.
 
 
-SAY NO TO SUICIDE PUBLIC LICENSE 
+
+
+# SAY NO TO SUICIDE PUBLIC LICENSE 
 
 Version 1.0, September 2019
 
