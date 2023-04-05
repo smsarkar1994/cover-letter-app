@@ -67,8 +67,10 @@ ui <- fluidPage(
                   tags$li("[position]")
                 ),
                 tags$li(strong("The app only accepts .docx templates.")),
-                tags$li("To download a sample cover letter template, click",
-                        a(href="https://www.statswithsasa.com/wp-content/uploads/2023/03/cover_letter_template.docx", "here."))
+                tags$li("To download a sample cover letter template, click the download button",
+                        # a(href="https://www.statswithsasa.com/wp-content/uploads/2023/03/cover_letter_template.docx", "here."))
+                        a(href="https://github.com/smsarkar1994/cover-letter-app/blob/main/cover_letter_template.docx", "here."))
+                
               ),
               br(),
               h3(strong("Selected Inputs")),
